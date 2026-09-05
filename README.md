@@ -1,2 +1,2 @@
-# UW_Application
-### https://keithprimas.github.io/UW_Application/
+# UW_Whitewater_Application
+### https://keithprimas.github.io/UW-Whitewater-Application/
