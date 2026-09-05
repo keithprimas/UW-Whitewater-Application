@@ -8,7 +8,7 @@ html, body {
 
 body{
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(180deg,#0f5640,#0c3b33);
+  background: linear-gradient(180deg,rgb(105, 38, 171),rgb(80, 29, 130));
   color:#fff;
   display:flex;
   flex-direction:column;
@@ -75,7 +75,7 @@ h3{ font-size:.95rem; color:#fff; margin-top:0.3rem; }
   width:215px;
   height:215px;
   border-radius:50%;
-  border:10px solid #1db431;
+  border:10px solid rgb(80, 173, 238);
   object-fit:cover;
   position:absolute;
   top:50%;
@@ -104,7 +104,7 @@ h3{ font-size:.95rem; color:#fff; margin-top:0.3rem; }
   width:145px;
   height:145px;
   border-radius:50%;
-  border:10px solid #54e03d;
+  border:10px solid rgb(252, 184, 19);
   object-fit:cover;
   cursor:pointer;
   transition: transform .25s ease, box-shadow .25s ease;
@@ -181,7 +181,7 @@ footer{
   width: 100%;
   text-align: center;
   padding: 0.9rem 0;
-  background: #ffad5c;
+  background: rgb(80, 173, 238);
   color: #fff;
   z-index: 50;
   height: 50px;
@@ -261,7 +261,7 @@ footer{
   width: 100%;
   text-align: center;
   padding: 0.5rem 0;
-  background: #ffad5c;
+  background: rgb(80, 173, 238);
   color: #fff;
   z-index: 50;
   height: 30px;
